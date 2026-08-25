@@ -91,43 +91,6 @@ first public project          ░░░░░░░░░░░░░░░░�
 
 <br/>
 
-### stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kawanskysimeon2-lab&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=cfcfcf" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawanskysimeon2-lab&theme=dark&hide_border=true&background=0d0d0d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawanskysimeon2-lab&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=cfcfcf" width="48%" />
-</p>
-
-<br/>
-
----
-
-<br/>
-
-### activity graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kawanskysimeon2-lab&theme=github-compact&bg_color=0d0d0d&color=ffffff&line=ffffff&point=ffffff&hide_border=true" width="100%"/>
-</p>
-
-<br/>
-
----
-
-<br/>
-
-### notes
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
-</p>
-
-<br/>
-
 ---
 
 <br/>
